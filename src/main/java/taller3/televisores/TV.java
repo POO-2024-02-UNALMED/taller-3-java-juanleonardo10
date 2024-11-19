@@ -63,7 +63,7 @@ public class TV{
     }
                                     
     public static void tvCreados(){
-        numTV = ++numTV;
+        numTV =++ numTV;
     }
                                     
     public void turnOff(){

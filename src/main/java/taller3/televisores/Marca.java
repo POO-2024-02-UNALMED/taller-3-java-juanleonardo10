@@ -11,6 +11,6 @@ public class Marca{
         this.nombre = nombre;
     }
     public String getNombre(){
-        return.nombre;
-    }
+        return nombre;
+    }
 }
